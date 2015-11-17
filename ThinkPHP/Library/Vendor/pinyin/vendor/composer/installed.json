@@ -1,0 +1,43 @@
+[
+    {
+        "name": "overtrue/pinyin",
+        "version": "2.6.3",
+        "version_normalized": "2.6.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/overtrue/pinyin.git",
+            "reference": "e22bd9e81a2826af6a99c32653e81fe572bfe604"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/overtrue/pinyin/zipball/e22bd9e81a2826af6a99c32653e81fe572bfe604",
+            "reference": "e22bd9e81a2826af6a99c32653e81fe572bfe604",
+            "shasum": ""
+        },
+        "time": "2015-10-28 02:18:40",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Overtrue\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Carlos",
+                "homepage": "http://github.com/overtrue"
+            }
+        ],
+        "description": "Chinese to pinyin translator.",
+        "homepage": "https://github.com/overtrue/pinyin",
+        "keywords": [
+            "Chinese",
+            "Pinyin",
+            "cn2pinyin"
+        ]
+    }
+]
